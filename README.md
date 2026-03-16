@@ -46,6 +46,6 @@ Bridging the PS4 with your smart home — monitor game state, CPU/RSX temps, FTP
 *Everything I build is open source and community-first.*
 *If it helps you, consider buying me a coffee ☕*
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#5277ff', 'B0B21W390C');kofiwidget2.draw();</script> 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/techmorph)
 
 </div>
