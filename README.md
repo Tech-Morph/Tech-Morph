@@ -33,12 +33,6 @@ Bridging the PS4 with your smart home — monitor game state, CPU/RSX temps, FTP
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [HA-PS4-GoldHEN-Integration](https://github.com/Tech-Morph/HA-PS4-GoldHEN-Integration) | Home Assistant HACS integration for jailbroken PS4 |
-
 ---
 
 <div align="center">
