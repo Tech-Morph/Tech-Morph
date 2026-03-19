@@ -19,7 +19,7 @@ Building low-level tools for the PS4 jailbreak scene — GoldHEN plugins, ELF/bi
 - 🛠️ Built with OpenOrbis · C/C++ · GoldHEN SDK
 
 ## 🏠 Home Assistant Integrations
-Bridging the PS4 with your smart home — monitor game state, CPU/RSX temps, FTP status, and more directly in Home Assistant.
+Bridging the PS4 with your smart home — monitor game state, CPU/SoC temps, FTP status, and more directly in Home Assistant.
 
 - [![HACS](https://img.shields.io/badge/HACS-Custom-orange?style=flat-square)](https://github.com/Tech-Morph/HA-PS4-GoldHEN-Integration) **[HA-PS4-GoldHEN-Integration](https://github.com/Tech-Morph/HA-PS4-GoldHEN-Integration)** — PS4 + GoldHEN → Home Assistant
 
