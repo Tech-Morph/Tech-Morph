@@ -5,7 +5,6 @@
 **PS4 Homebrew Developer · Home Automation Engineer · Linux Enthusiast**
 
 [![Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/techmorph)
-[![GitHub followers](https://img.shields.io/github/followers/Tech-Morph?style=for-the-badge&logo=github)](https://github.com/Tech-Morph)
 
 </div>
 
